@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies I'm also learning though😅  
   
 
-- ⚡ Fun fact: I hate the carousel of tailwindcss  
+- ⚡ Fun fact: I've started web development for getting a certificate and now it became my life.  
   
 
 <br/>  
