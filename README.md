@@ -90,14 +90,6 @@
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br />
-
 ## Used Languages
 
 <div align="center">
