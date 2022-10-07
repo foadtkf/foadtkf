@@ -2,9 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=foadtkf&&style=flat-square" align="center" />
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello!+It's+Me+Fuad+👋;A+Front+End+Developer;A+ReactJS+Developer;A+MERN+Stack+Developer;)
-
-### <div align="center">I'm Fuad, a front-end developer 👨‍💻 working remotely since August 2022 🚀</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello!+It's+Me+Fuad+👋;A+Front+End+Developer;A+ReactJS+Developer;A+MERN+Stack+Developer;Working+remotely+as+a+front-end+intern+since+August+2022+🚀)
 
 - 🌱 I’m currently learning Redux and NextJS
 
