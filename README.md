@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=foadtkf&&style=flat-square" align="center" />
 </div>
 
-# Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hello!+It's+Me+Fuad+👋;A+Front+End+Developer;A+ReactJS+Developer;A+MERN+Stack+Developer;)
 
 ### <div align="center">I'm Fuad, a front-end developer 👨‍💻 working remotely since August 2022 🚀</div>
 
@@ -83,14 +83,13 @@
 
 <br/>
 
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=foadtkf&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
-## Used Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=foadtkf&show_icons=true&locale=en&layout=compact" alt="foadtkf" />
-</div>
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadtkf&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=foadtkf&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foadtkf&theme=holi-theme">
+</p>
