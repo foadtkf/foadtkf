@@ -68,34 +68,28 @@
 
 </td></tr></table>
 
+<h2>My Github Stats</h2>
+<p  align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadtkf&layout=compact&theme=dracula&langs_count=10&exclude_repo=synthwave">
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=foadtkf&count_private=true&show_icons=trueline_height=21&theme=synthwave">	
+
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foadtkf&theme=synthwave">
+</p>
 <br/>
-
-## Connect with me
-
+<h2></h2>
 <div align="center">
 <a href="https://github.com/foadtkf" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 <a href="https://linkedin.com/in/fakhrul-islam-fuad-8b8915169" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>
 <a href="https://www.facebook.com/daddytkf" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook />
 </a>
 <a href="https://instagram.com/daddytkff" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
 </a>  
 </div>
-
-<br/>
-
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadtkf&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=foadtkf&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foadtkf&theme=holi-theme">
-</p>
