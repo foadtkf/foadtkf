@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=foadtkf&&style=flat-square" align="center" />
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;A+Front+End+Developer;A+ReactJS+Developer;A+MERN+Stack+Developer;Front-end+intern+since+Aug22+🚀;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;A+Front+End+Developer;A+ReactJS+Developer;A+MERN+Stack+Developer;A+NextJS+Developer;Front-end+intern+since+Aug22+🚀;)
 
 - 🌱 I’m currently learning Redux and NextJS
 
