@@ -18,7 +18,8 @@
 
 ### Frontend
 
-<div align="center">  
+<div align="center">    
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1000/1*KDMx1YspSrBcFJG-NDZgDg.png" alt="NextJS" height="50" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>     
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   
@@ -39,7 +40,7 @@
 
 ### Backend
 
-<div align="center">  
+<div align="center"> 
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -48,7 +49,8 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MysQl" height="50" /></a> 
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MysQl" height="50" /></a>    
+<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://mms.businesswire.com/media/20210422005416/en/792790/23/Logo.WhiteBackground.jpg" alt="Strapi" height="50" /></a> 
 </div>
 
 </td>
