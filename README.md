@@ -63,7 +63,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Firebase" height="50" /></a>   
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Firebase" height="50" /></a>   
-<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_477db83f729d63210139ec7cd29c1351/render-render.png" alt="Firebase" height="50" /></a>   
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_477db83f729d63210139ec7cd29c1351/render-render.png" alt="Firebase" height="50" /></a>     
+<a href="https://www.cyclic.sh/" target="_blank"><img style="margin: 10px" src="https://www.cyclic.sh/images/cyclic-logo.png" alt="Cyclic" height="50" /></a> 
 </div>
 
 </td></tr></table>
