@@ -80,8 +80,11 @@
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foadtkf&theme=synthwave">
 </p>
-<br/>
+
+
+![](https://github-profile-trophy.vercel.app/?username=foadtkf&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 <h2></h2>
+
 <div align="center">
 <a href="https://github.com/foadtkf" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
