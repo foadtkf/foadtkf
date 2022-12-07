@@ -19,10 +19,11 @@
 ### Frontend
 
 <div align="center">    
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1000/1*KDMx1YspSrBcFJG-NDZgDg.png" alt="NextJS" height="50" /></a> 
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJS" height="50" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>     
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>     
+<a href="https://apexcharts.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/5ee5535a3f7e5ba870272261173bf12f9e08a14b0e926291b0a31b751de595e3/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.npmjs.com/package/react-papaparse" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/alberthaff/ngx-papaparse/master/assets/ngx-papaparse.svg?sanitize=true" alt="React-Paraparse npm" height="50" /></a> 
 <a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5574267/54994574-df4c1380-4fc4-11e9-8509-1d3aedbc7b96.png" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -50,7 +51,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MysQl" height="50" /></a>    
-<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://mms.businesswire.com/media/20210422005416/en/792790/23/Logo.WhiteBackground.jpg" alt="Strapi" height="50" /></a> 
+<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://mms.businesswire.com/media/20210422005416/en/792790/23/Logo.WhiteBackground.jpg" alt="Strapi" height="50" /></a>     
+<a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" height="50" /></a>     
+<a href="https://www.sanity.io/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_96102ac6497377cd53da621075fe828e/sanity.png" alt="Sanity" height="50" /></a> 
 </div>
 
 </td>
