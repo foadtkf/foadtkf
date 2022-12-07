@@ -50,8 +50,8 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" alt="MysQl" height="50" /></a>    
-<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://mms.businesswire.com/media/20210422005416/en/792790/23/Logo.WhiteBackground.jpg" alt="Strapi" height="50" /></a>     
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="MysQl" height="50" /></a>    
+<a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/strapi-icon-256x253-fr8b6jhy.png" alt="Strapi" height="50" /></a>     
 <a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" height="50" /></a>     
 <a href="https://www.sanity.io/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_96102ac6497377cd53da621075fe828e/sanity.png" alt="Sanity" height="50" /></a> 
 </div>
