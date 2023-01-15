@@ -22,21 +22,11 @@
 
 <div align="center">    
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJS" height="50" /></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>     
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>     
-<a href="https://apexcharts.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/5ee5535a3f7e5ba870272261173bf12f9e08a14b0e926291b0a31b751de595e3/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.npmjs.com/package/react-papaparse" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/alberthaff/ngx-papaparse/master/assets/ngx-papaparse.svg?sanitize=true" alt="React-Paraparse npm" height="50" /></a> 
-<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5574267/54994574-df4c1380-4fc4-11e9-8509-1d3aedbc7b96.png" alt="Bootstrap" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>      
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
 </div>
 
 </td></tr><tr><td valign="top" width="100%">
@@ -60,6 +50,36 @@
 
 </td>
 </tr>
+ <tr><td>
+   
+   
+### Languages
+
+<div align="center">    
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>    
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
+<a href="https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf" target="_blank"><img style="margin: 10px" src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" alt="Assembly Language" height="50" /></a>      
+<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://icon2.cleanpng.com/20180709/atx/kisspng-java-computer-icons-java-logo-5b434ecf103ea8.4827256615311377430666.jpg" alt="Java" height="50" /></a>
+</div>
+
+</td></tr>
+<tr><td>
+  
+### Tools
+
+<div align="center">    
+<a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>     
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>     
+<a href="https://apexcharts.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/5ee5535a3f7e5ba870272261173bf12f9e08a14b0e926291b0a31b751de595e3/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="ApexCharts" height="50" /></a>  
+<a href="https://www.npmjs.com/package/react-papaparse" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/alberthaff/ngx-papaparse/master/assets/ngx-papaparse.svg?sanitize=true" alt="React-Paraparse npm" height="50" /></a> 
+<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5574267/54994574-df4c1380-4fc4-11e9-8509-1d3aedbc7b96.png" alt="Bootstrap" height="50" /></a>   
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
+</div>
+
+</td></tr>
+
 <tr>
 <td valign="top" >
 
