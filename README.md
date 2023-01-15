@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;A+Front+End+Developer;A+ReactJS+Developer;A+MERN+Stack+Developer;A+NextJS+Developer;Front-end+intern+since+Aug22+🚀;)
 
-- 🌱 I’m currently learning Redux and NextJS
+- 🌱 I’m currently learning RestAPI, Mongoose and NextJS
 
 - ❓ Ask me about anything related to MERN stack and related technologies I'm also learning though😅
 
