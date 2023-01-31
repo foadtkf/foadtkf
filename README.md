@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=foadtkf&&style=flat-square" align="center" />
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;Front+End+Developer;Backend+Developer;Full+Stack+Developer;ReactJS+Developer;MERN+Stack+Developer;NextJS+Developer;Front-end+intern+since+Aug22+🚀;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;Front+End;Backend;Full+Stack;ReactJS;MERN+Stack;NextJS;MongoDB;Mongoose;Fullstack+intern+since+Aug22+🚀;)
 
 - 🌱 I’m currently learning RestAPI, Mongoose and NextJS
 
