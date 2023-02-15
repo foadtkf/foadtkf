@@ -19,6 +19,7 @@
   <tr><td valign="top" width="100%">
 
 ### Frontend
+    
 
 <div align="center">    
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJS" height="50" /></a> 
