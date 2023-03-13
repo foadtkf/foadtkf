@@ -96,20 +96,30 @@
 </div>
 
 </td></tr></table>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="foadtkf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foadtkf&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foadtkf&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="foadtkf" height="230px"/>
+<br/>
 
-<h2>My Github Stats</h2>
-<p  align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foadtkf&layout=compact&theme=dracula&langs_count=10&exclude_repo=synthwave">
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=foadtkf&count_private=true&show_icons=trueline_height=21&theme=synthwave">	
+</details>
 
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foadtkf&theme=synthwave">
-</p>
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+	
+[![Fuad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=foadtkf&theme=github	)](https://github.com/foadtkf/github-readme-activity-graph)
 
+</details>
 
-![](https://github-profile-trophy.vercel.app/?username=foadtkf&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-<h2></h2>
+<details><summary> <h3>😎 Git profile Trophies </h3></summary>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foadtkf&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+	
+</details>
+
+## Snake eating my contribution...😬
+![snake gif](https://github.com/foadtkf/foadtkf/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
 <a href="https://github.com/foadtkf" target="_blank">
