@@ -11,7 +11,9 @@
 - ⚡ Fun fact: I've started web development for getting a certificate and now it became my life.
 
 <br/>
-
+<div align="center">
+	
+	
 ## My Skill Set
 
 <table>
@@ -96,6 +98,7 @@
 </div>
 
 </td></tr></table>
+	</div>
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 	
 <p align="center">
@@ -117,11 +120,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foadtkf&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 	
 </details>
-
+<div align="center">
+	
+	
 ## Snake eating my contribution...😬
 ![snake gif](https://github.com/foadtkf/foadtkf/blob/output/github-contribution-grid-snake.gif)
 
-<div align="center">
+
 <a href="https://github.com/foadtkf" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
