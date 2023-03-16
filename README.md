@@ -138,7 +138,7 @@
 	
 	
 ## Snake eating my contribution...😬
-![snake gif](https://github.com/foadtkf/foadtkf/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/foadtkf/foadtkf/blob/output/github-contribution-grid-snake.svg)
 
 
 <a href="https://github.com/foadtkf" target="_blank">
