@@ -98,8 +98,19 @@
 </div>
 
 </td></tr></table>
-	<a href="https://next-portfolio-foadtkf.vercel.app/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/2gFwfvX/Screenshot-350.png" alt="NextJS" height="500"/></a> 
-	</div>
+</div>
+
+
+
+<details><summary><h3>My New Portfolio built with NextJS, MongoDB, Mongoose and other NPM packages</h3></summary>
+
+<div align="center">	
+<a href="https://next-portfolio-foadtkf.vercel.app/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/2gFwfvX/Screenshot-350.png" alt="NextJS" height="500"/></a>
+</div>
+
+</details>
+	
+	
 	
 	
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
