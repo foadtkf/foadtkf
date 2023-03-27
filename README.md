@@ -41,8 +41,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="MysQl" height="50" /></a>    
 <a href="https://strapi.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/strapi-icon-256x253-fr8b6jhy.png" alt="Strapi" height="50" /></a>     
 <a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" height="50" /></a>     
@@ -93,6 +91,7 @@
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Firebase" height="50" /></a>   
 <a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_477db83f729d63210139ec7cd29c1351/render-render.png" alt="Firebase" height="50" /></a>     
 <a href="https://www.cyclic.sh/" target="_blank"><img style="margin: 10px" src="https://www.cyclic.sh/images/cyclic-logo.png" alt="Cyclic" height="50" /></a> 
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://statamic.dev/img/vercel-logo.svg" alt="Cyclic" height="50" /></a>
 </div>
 
 </td></tr></table>
