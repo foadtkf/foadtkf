@@ -69,12 +69,15 @@
 
 <div align="center">    
 <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>     
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>     
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://apexcharts.com/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/5ee5535a3f7e5ba870272261173bf12f9e08a14b0e926291b0a31b751de595e3/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="ApexCharts" height="50" /></a>  
-<a href="https://www.npmjs.com/package/react-papaparse" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/alberthaff/ngx-papaparse/master/assets/ngx-papaparse.svg?sanitize=true" alt="React-Paraparse npm" height="50" /></a> 
-<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5574267/54994574-df4c1380-4fc4-11e9-8509-1d3aedbc7b96.png" alt="Bootstrap" height="50" /></a>   
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.io" height="50" /></a>   
+<a href="https://nodemailer.com/" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/1272424/d1995000-0ab7-11ea-8ed3-04a082c36b0d" alt="Nodemailer" height="50" /></a> 
+<a href="https://leafletjs.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" alt="LeafletJS" height="50" /></a> 
+<a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.io" height="50" /></a> 
+<a href="https://www.emailjs.com/" target="_blank"><img style="margin: 10px" src="https://www.emailjs.com/logo.png" alt="EmailJS" height="50" /></a> 
+<a href="https://www.npmjs.com/package/react-papaparse" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/alberthaff/ngx-papaparse/master/assets/ngx-papaparse.svg?sanitize=true" alt="React-Paraparse npm" height="50" /></a> 
+<a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5574267/54994574-df4c1380-4fc4-11e9-8509-1d3aedbc7b96.png" alt="React Toastify" height="50" /></a> 
 </div>
 
 </td></tr>
