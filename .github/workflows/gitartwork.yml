@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: foadtkf
             # Text on contribution graph 
-            text: FoaD
+            text: FoaDTKF
        - uses: jasineri/simple-push-action@v1
