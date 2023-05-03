@@ -78,6 +78,7 @@
 <a href="https://www.emailjs.com/" target="_blank"><img style="margin: 10px" src="https://www.emailjs.com/logo.png" alt="EmailJS" height="50" /></a> 
 <a href="https://www.npmjs.com/package/react-papaparse" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/alberthaff/ngx-papaparse/master/assets/ngx-papaparse.svg?sanitize=true" alt="React-Paraparse npm" height="50" /></a> 
 <a href="https://fkhadra.github.io/react-toastify/introduction" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/5574267/54994574-df4c1380-4fc4-11e9-8509-1d3aedbc7b96.png" alt="React Toastify" height="50" /></a> 
+<a href="https://docs.mapbox.com/help/glossary/icon/" target="_blank"><img style="margin: 10px" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png" alt="MapBoxGL" height="50" /></a> 
 </div>
 
 </td></tr>
