@@ -98,24 +98,14 @@
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://statamic.dev/img/vercel-logo.svg" alt="Cyclic" height="50" /></a>
 </div>
 
-</td></tr></table>
-</div>
+</td></tr>
 
+<tr>
+<td valign="top" >
 
+### 💻 GitHub Profile Stats
 
-<details><summary><h3>My New Portfolio built with NextJS, MongoDB, Mongoose and other NPM packages</h3></summary>
-
-<div align="center">	
-<a href="https://next-portfolio-foadtkf.vercel.app/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/2gFwfvX/Screenshot-350.png" alt="NextJS" height="500"/></a>
-</div>
-
-</details>
-	
-	
-	
-	
-<details ><summary><h3>💻 GitHub Profile Stats</h3></summary>
-	
+<div align="center">  
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="foadtkf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foadtkf&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -123,9 +113,23 @@
 <img src="https://streak-stats.demolab.com?user=foadtkf&theme=tokyonight&hide_border=true&border_radius=0&fire=EB0000&ring=EB0000" alt="foadtkf" height="230px" />
 
 </p>
-<br/>
+</div>
 
-</details>
+</td></tr>
+</table>
+</div>
+
+##
+
+<details>
+<br/>
+<summary><h3>My New Portfolio built with NextJS, MongoDB, Mongoose and other NPM packages</h3></summary>
+
+<div align="center">	
+<a href="https://next-portfolio-foadtkf.vercel.app/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/2gFwfvX/Screenshot-350.png" alt="NextJS" height="500"/></a>
+</div>	</details>
+
+#
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 	
@@ -133,11 +137,16 @@
 
 </details>
 
+#
+
 <details><summary> <h3>😎 Git profile Trophies </h3></summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foadtkf&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 	
 </details>
+
+#
+
 <div align="center">
 	
 	
@@ -161,8 +170,10 @@
 <div align="center">
 	
 
-	
+#	
 
 [![gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
+	
+#
 </div>
