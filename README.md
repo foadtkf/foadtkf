@@ -2,9 +2,11 @@
 <img src="https://komarev.com/ghpvc/?username=foadtkf&&style=flat-square" align="center" />
 </div>
 
-<a href="https://github.com/foadtkf" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="NextJS" height="50"/></a>     ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;Full+Stack;Front+End;Backend;ReactJS;NextJS;Bootstrap;Tailwind+CSS;MaterialUI;NodeJS;ExpressJS;MongoDB;Mongoose;Fullstack+developer;since;February2023+🚀;.....;)
+<a href="https://github.com/foadtkf" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="NextJS" height="50"/></a>     ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=30&lines=Hello!+It's+Me+Fuad+👋;Full+Stack;Front+End;Backend;ReactJS;NextJS;Bootstrap;Tailwind+CSS;MaterialUI;NodeJS;ExpressJS;MongoDB;Mongoose;Redux;....🚀;.....;)
 
-- 🌱 I’m currently learning RestAPI, Mongoose and NextJS
+- 👀 Looking for an opportunity to prove my expertise on Full-stack development.
+
+- 🌱 I’m currently learning Typescript, RestAPI, Mongoose and NextJS.
 
 - ❓ Ask me about anything related to MERN stack and related technologies I'm also learning though😅
 
